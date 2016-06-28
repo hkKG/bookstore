@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Murder House",
+    "genre": "Suspense",
+    "description": "No. 7 Ocean Drive is a gorgeous, multi-million-dollar beachfront estate in the Hamptons, where money and privilege know no bounds. But its beautiful gothic exterior hides a horrific past",
+    "author":"James Patterson, David Ellis",
+    "publisher":"Little, Brown and Company",
+    "pages":"480",
+    "image_url":"http://prodimage.images-bn.com/pimages/9780316410984_p0_v2_s192x300.jpg",
+    "buy_url":"http://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9780316410984"
+  },
+  {
+    "title": "Truth or Die",
+    "genre": "Suspense",
+    "description": "After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. He's found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop",
+    "author":"James Patterson, Howard Roughan",
+    "publisher":"Grand Central Publishing",
+    "pages":"416",
+    "image_url":"http://prodimage.images-bn.com/pimages/9781455584963_p0_v1_s192x300.jpg",
+    "buy_url":"http://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584963"
+  },
+  {
+    "title": "The Notebook",
+    "genre": "Romance",
+    "description": "Set amid the austere beauty of coastal North Carolina in 1946, The Notebook begins with the story of Noah Calhoun, a rural Southerner returned home from World War II",
+    "author":"Nicholas Sparks",
+    "publisher":"Grand Central Publishing",
+    "pages":"272",
+    "image_url":"http://prodimage.images-bn.com/pimages/9781455582877_p0_v2_s192x300.jpg",
+    "buy_url":"http://www.barnesandnoble.com/w/notebook-nicholas-sparks/1100298896?ean=9781455582877"
+  }
+]
