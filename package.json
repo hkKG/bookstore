@@ -1,16 +1,23 @@
 {
   "name": "bookstore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple bookstore app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "001-start-app": "node app",
+    "002-start-test_app-color_converter_server": "node ./test_app/color_converter_server",
+    "003-start-test": "./node_modules/.bin/mocha --reporter spec"
   },
   "dependencies":{
-  	"express":"*",
-  	"body-parser":"*",
-  	"mongoose":"*"
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*",
+    "chai":"*",
+    "superagent":"*",
+    "mocha":"*"
   },
-  "author": "Brad Traversy",
+  "author": "hkKG",
   "license": "ISC"
 }
+
